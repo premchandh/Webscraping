@@ -1,0 +1,9 @@
+Crawl4AI==0.7.2
+python-dotenv==1.0.1
+pydantic==2.10.6
+playwright
+pandas
+spacy
+openai==1.99.9
+azure-storage-blob==12.19.0
+apache-airflow==2.9.2
